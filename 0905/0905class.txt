@@ -1,0 +1,22 @@
+https://ftpserver.ksecole.kr/files/
+
+id : gameprogramming
+ps: gameprogramming
+
+github.com
+
+매 주 수업 내용과 레포트 업로드(학기 말 검사)
+
+단톡방: ksgame
+
+참여코드: game2025
+
+닉네임 변경: 2023123456김하윤(학번이름)
+
+결석 2번 이상, 지각 4번 이상 A 그룹에서 제외
+
+devC++ 설치 vs코드 설치
+
+깃허브에 game레파지토리 만들기, 0905 폴더 만들기
+
+발표주제 : vs code & c, copilot
